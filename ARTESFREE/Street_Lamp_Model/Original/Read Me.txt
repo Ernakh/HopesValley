@@ -1,0 +1,9 @@
+This FXB can be loaded in Unity.  If you are using Unity, make sure you right click to 'Import New Assest' to get the FXB and included textures imported.  Now, apply each texture to the relevant material in the materials folder in Unity.  You can add your own textures or use the ones provided.
+
+P.S:  UV Maps are included to use as a template, in case you want to create your own textures to apply afterwards to the street lamp.   I allow you to use this model for free, even if it is commericially and publically used for your own game or other projects.  
+
+TIP:  Once you have the street lamp imported in Unity, you can add a 'Light' component to the 'LampHead' so it will emit light.  Set the range for about '100'.  This will emulate a realsitic street lamp. 
+
+Enjoy.
+
+Made by Nicole

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7528509760860400854
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7528509760860400851}
+  m_Layer: 0
+  m_Name: A - Medica
+  m_TagString: Medico
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &7528509760860400851
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7528509760860400854}
+  m_LocalRotation: {x: -0.4811443, y: 0.010192088, z: 0.005594413, w: 0.8765643}
+  m_LocalPosition: {x: -147.74, y: -13.78, z: -158.14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8065976344722233510}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &8558309017720056569
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7528509760860400851}
+    m_Modifications:
+    - target: {fileID: 1332769556729882853, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_Name
+      value: A - DraPerola
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.6764
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.0607
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.095915295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.0000000020962956
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9953895
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000021754948
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 191.008
+      objectReference: {fileID: 0}
+    - target: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+--- !u!4 &8065976344722233510 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1816395911273034335, guid: b63dbcef8db7e5a40b9b196c55346eea, type: 3}
+  m_PrefabInstance: {fileID: 8558309017720056569}
+  m_PrefabAsset: {fileID: 0}
